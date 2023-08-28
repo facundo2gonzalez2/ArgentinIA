@@ -1,0 +1,10 @@
+/out_data/
+/input_data/
+
+src/__pycache__/
+src/JamSpell/
+src/yolov7/
+.venv/
+.idea/
+
+.vscode/
